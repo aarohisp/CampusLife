@@ -18,7 +18,7 @@ The map view feature allows users to explore the campus and locate different bui
 The application keeps users informed about upcoming events on campus. The events are categorized by type, and users can filter events based on their interests. Users can also add events to their calendar and set reminders.
 
 ## Semester Schedule
-The application provides users with the tentative scehdule of the semester.This includes the holiday list, the tentative end-semester timetable, and vacation period. Changes to the Semester schedules can be made by the administrator.
+The application provides users with the tentative scehdule of the semester through an academic calendar. This includes the holiday list, the tentative end-semester timetable, and vacation period. Changes to the Semester schedules can be made by the administrator.
 
 ## Bus Route Updates
 The application provides users with up-to-date information about the campus bus routes. Users can view the bus routes on the map and check the current location of the buses in real-time. Changes to the bus schedules can be made by the administrator.
