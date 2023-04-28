@@ -17,8 +17,11 @@ The map view feature allows users to explore the campus and locate different bui
 ## Event Schedule Updates
 The application keeps users informed about upcoming events on campus. The events are categorized by type, and users can filter events based on their interests. Users can also add events to their calendar and set reminders.
 
+## Semester Schedule
+The application provides users with the tentative scehdule of the semester.This includes the holiday list, the tentative end-semester timetable, and vacation period. Changes to the Semester schedules can be made by the administrator.
+
 ## Bus Route Updates
-The application provides users with up-to-date information about the campus bus routes. Users can view the bus routes on the map and check the current location of the buses in real-time. The application also provides alerts about any changes to the bus schedules.
+The application provides users with up-to-date information about the campus bus routes. Users can view the bus routes on the map and check the current location of the buses in real-time. Changes to the bus schedules can be made by the administrator.
 
 # Installation and Usage
 To use the application, you need to have Java installed on your machine. You can download the latest version of Java from the official website. After installing Java, you can download the application from our GitHub repository and run it on your local machine.
